@@ -14,7 +14,7 @@
   </head>
   <body>
       <div id="form">
-            <h1 id="heading">Registration Form</h1><br>
+            <h1 id="heading">Sign-Up Form</h1><br>
             <form name="form" action="signup.php" method="POST">
                 <i class="fa fa-user fa-lg"></i>
                 <input type="text" id="user" name="user" placeholder="Enter Username" required></br></br>
